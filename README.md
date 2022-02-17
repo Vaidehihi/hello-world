@@ -1,3 +1,3 @@
 # hello-world
 Hello! My name is Vaidehi.
-I am BSc(Computer Science) Student.
+I am pursuing my degree in BSc(Computer Science).
